@@ -1,0 +1,54 @@
+name: Test Amazon product data
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check-products:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request four ASINs from Creators API
+        env:
+          CLIENT_ID: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_ID }}
+          CLIENT_SECRET: ${{ secrets.AMAZON_CREATORS_SECRET }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.request, urllib.error
+          def post(url, payload, headers):
+              req = urllib.request.Request(url, data=json.dumps(payload).encode(), headers=headers, method="POST")
+              with urllib.request.urlopen(req, timeout=30) as response:
+                  return json.load(response)
+          try:
+              auth = post("https://api.amazon.co.jp/auth/o2/token", {
+                  "grant_type":"client_credentials",
+                  "client_id":os.environ["CLIENT_ID"],
+                  "client_secret":os.environ["CLIENT_SECRET"],
+                  "scope":"creatorsapi::default"
+              }, {"Content-Type":"application/json"})
+              token=auth["access_token"]
+              print("OAuth token: obtained (value hidden)")
+              result=post("https://creatorsapi.amazon/catalog/v1/getItems",{
+                  "itemIds":["B085T8DCSK","B0BN5HSD6Z","B09T3L3J24","B09T3KYHF8"],
+                  "itemIdType":"ASIN",
+                  "marketplace":"www.amazon.co.jp",
+                  "partnerTag":"moon12-22",
+                  "resources":["images.primary.medium","itemInfo.title"]
+              }, {"Authorization":"Bearer "+token,"Content-Type":"application/json","x-marketplace":"www.amazon.co.jp"})
+              items=result.get("itemResults",{}).get("items",[])
+              print("Returned items:",len(items))
+              for item in items:
+                  asin=item.get("asin","unknown")
+                  has_title=bool(item.get("itemInfo",{}).get("title",{}).get("displayValue"))
+                  has_image=bool(item.get("images",{}).get("primary",{}).get("medium",{}).get("url"))
+                  print("ASIN:",asin,"title:",has_title,"image:",has_image)
+              for err in result.get("errors",[]):
+                  print("Item error code:",err.get("code","unknown"))
+              if not items:
+                  raise SystemExit("No product items returned; check API eligibility and account status.")
+          except urllib.error.HTTPError as e:
+              print("API request failed with HTTP status:",e.code)
+              raise SystemExit(1)
+          except (KeyError,ValueError,TimeoutError) as e:
+              print("API response or credentials error:",type(e).__name__)
+              raise SystemExit(1)
+          PY
