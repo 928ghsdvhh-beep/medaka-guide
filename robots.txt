@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://928ghsdvhh-beep.github.io/medaka-guide/sitemap.xml
+Sitemap: https://medaka-guide-i92.pages.dev/sitemap.xml
