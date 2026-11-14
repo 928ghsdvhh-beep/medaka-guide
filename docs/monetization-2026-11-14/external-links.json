@@ -1,0 +1,217 @@
+[
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Oryzias_latipes.jpg",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:Oryzias_latipes.jpg",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/index.html"
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Oryzias_latipes(Hamamatsu,Shizuoka,Japan,2007)-1.jpg",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:Oryzias_latipes(Hamamatsu,Shizuoka,Japan,2007)-1.jpg",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/index.html"
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Oryzias_latipes(Hamamatsu,Shizuoka,Japan,2007)-2.jpg",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:Oryzias_latipes(Hamamatsu,Shizuoka,Japan,2007)-2.jpg",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/index.html",
+      "medaka-guide/articles/medaka-dechlorinator.html",
+      "medaka-guide/articles/medaka-summer-heat.html"
+    ]
+  },
+  {
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "status": 200,
+    "final_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "content_type": "text/html",
+    "pages": [
+      "medaka-guide/index.html",
+      "medaka-guide/index.html",
+      "medaka-guide/articles/medaka-dechlorinator.html",
+      "medaka-guide/articles/medaka-summer-heat.html",
+      "medaka-guide/articles/medaka-tools.html",
+      "medaka-guide/articles/first-aquarium.html",
+      "medaka-guide/articles/medaka-tank-size.html"
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Planted_Nano_Aquarium.JPG",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:Planted_Nano_Aquarium.JPG",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/index.html"
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Aquarium-Tank.jpg",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:Aquarium-Tank.jpg",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/index.html",
+      "medaka-guide/articles/first-aquarium.html"
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:AquariumHandNets.jpg",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:AquariumHandNets.jpg",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/index.html",
+      "medaka-guide/articles/medaka-tools.html"
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:12-Liter-Aquarium.jpg",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:12-Liter-Aquarium.jpg",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/index.html",
+      "medaka-guide/articles/medaka-tank-size.html"
+    ]
+  },
+  {
+    "url": "https://www.city.odawara.kanagawa.jp/field/envi/pet-wildlife/wildlife/p34504.html",
+    "status": 200,
+    "final_url": "https://www.city.odawara.kanagawa.jp/field/envi/pet-wildlife/wildlife/p34504.html",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/articles/medaka-winter-care.html"
+    ]
+  },
+  {
+    "url": "https://www.gex-fp.co.jp/fish/breed/medaka_breeding/medaka_sub3/medaka_03-003/",
+    "status": 200,
+    "final_url": "https://www.gex-fp.co.jp/fish/breed/medaka_breeding/medaka_sub3/medaka_03-003/",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/articles/medaka-winter-care.html"
+    ]
+  },
+  {
+    "url": "https://medakazukan.net/faq/",
+    "status": 200,
+    "final_url": "https://medakazukan.net/faq/",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/articles/medaka-winter-care.html"
+    ]
+  },
+  {
+    "url": "https://medaka.nbrp.jp/protocol/nbrp_medaka_protocols.html",
+    "status": 200,
+    "final_url": "https://medaka.nbrp.jp/protocol/nbrp_medaka_protocols.html",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/articles/medaka-cloudy-water.html"
+    ]
+  },
+  {
+    "url": "https://thesis.pwri.go.jp/public_detail/122236/",
+    "status": 200,
+    "final_url": "https://thesis.pwri.go.jp/public_detail/122236/",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/articles/medaka-cloudy-water.html"
+    ]
+  },
+  {
+    "url": "https://spectrumbrands.jp/products-aqua/treatment/0437/",
+    "error": "HTTP Error 503: Service Unavailable",
+    "pages": [
+      "medaka-guide/articles/medaka-dechlorinator.html",
+      "medaka-guide/articles/medaka-tools.html",
+      "medaka-guide/articles/dechlorinator-products.html"
+    ]
+  },
+  {
+    "url": "https://spectrumbrands.jp/products-aqua/treatment/0439/",
+    "error": "HTTP Error 503: Service Unavailable",
+    "pages": [
+      "medaka-guide/articles/medaka-dechlorinator.html",
+      "medaka-guide/articles/medaka-tools.html",
+      "medaka-guide/articles/dechlorinator-products.html"
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Nihonmedaka.jpg",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:Nihonmedaka.jpg",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "medaka-guide/articles/medaka-fry-tools.html"
+    ]
+  },
+  {
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "status": 200,
+    "final_url": "https://creativecommons.org/licenses/by/3.0/",
+    "content_type": "text/html",
+    "pages": [
+      "medaka-guide/articles/medaka-fry-tools.html"
+    ]
+  },
+  {
+    "url": "https://www.kyorin-net.co.jp/fresh/fr24.html",
+    "status": 200,
+    "final_url": "https://www.kyorin-net.co.jp/fresh/fr24.html",
+    "content_type": "text/html",
+    "pages": [
+      "medaka-guide/articles/medaka-not-eating.html"
+    ]
+  },
+  {
+    "url": "https://www.kyorin-net.co.jp/fresh/fr14.html",
+    "status": 200,
+    "final_url": "https://www.kyorin-net.co.jp/fresh/fr14.html",
+    "content_type": "text/html",
+    "pages": [
+      "medaka-guide/articles/medaka-not-eating.html"
+    ]
+  },
+  {
+    "url": "https://www.kyorin-net.co.jp/fresh/fr15.html",
+    "status": 200,
+    "final_url": "https://www.kyorin-net.co.jp/fresh/fr15.html",
+    "content_type": "text/html",
+    "pages": [
+      "medaka-guide/articles/medaka-not-eating.html"
+    ]
+  },
+  {
+    "url": "https://www.kyorin-net.co.jp/fresh/fr13.html",
+    "status": 200,
+    "final_url": "https://www.kyorin-net.co.jp/fresh/fr13.html",
+    "content_type": "text/html",
+    "pages": [
+      "medaka-guide/articles/medaka-not-eating.html"
+    ]
+  },
+  {
+    "url": "https://spectrumbrands.jp/products-aqua/heater/0528/",
+    "error": "HTTP Error 503: Service Unavailable",
+    "pages": [
+      "medaka-guide/articles/medaka-tools.html",
+      "medaka-guide/articles/medaka-thermometers.html"
+    ]
+  },
+  {
+    "url": "https://spectrumbrands.jp/products-aqua/heater/0192/",
+    "error": "HTTP Error 503: Service Unavailable",
+    "pages": [
+      "medaka-guide/articles/medaka-thermometers.html"
+    ]
+  }
+]

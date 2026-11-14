@@ -1,0 +1,81 @@
+{
+  "note": "Snapshot from main or its existing build before editorial changes; do not regenerate to hide advertising changes.",
+  "tracking_ids": [
+    "ip17-22",
+    "moon12-22"
+  ],
+  "protected_html_sha256": {
+    "about.html": [],
+    "index.html": [
+      "2cebe964d3ceeec33321de159eeda8727b81f8966eeb5addb97234278449a7d4",
+      "30c1927eccdfca045eec0a45a43f4e5ff9df6948f56224a0b85c703be7bfabef",
+      "34c18adf884d03c1ace4bde211ef5e6848141eb91231acb13ea305abca5b344a",
+      "4ba8413e93ac0708aa368f8f651538c30e438c3348507a28686b8c0a9d668b70",
+      "4cdf203a578b137afffb9ed3fe82c4c7d82e014651c34ebdf67bc458ec085ac3",
+      "a4f8146a0aecce7fe76903e5439914f5aa6efcbb4c47cb860bffdbb1bc894d30",
+      "bbadc18cae3a835dce63a55d56cffa92b34c9453de745d34a0c4cb946968dd52",
+      "c169a9ff41c8958e74084dba1cd0525ecdcbd493667498e8cec91da294901282"
+    ],
+    "404.html": [],
+    "privacy.html": [],
+    "googled51db09eaf8187a0.html": [],
+    "articles/medaka-water-change.html": [
+      "4ba8413e93ac0708aa368f8f651538c30e438c3348507a28686b8c0a9d668b70",
+      "805906df00b02d29046e703ba9704146888f8a1334fe0edd3943d38dfaf20f27"
+    ],
+    "articles/medaka-winter-care.html": [
+      "06d91102511c7d1d6bd310a0abef77d457468a24301bfbb19eb952d336fcf5f9",
+      "30c1927eccdfca045eec0a45a43f4e5ff9df6948f56224a0b85c703be7bfabef",
+      "3b1520b0bd59cfe379d8ca7f902af154f86a6b66f244479bcc8ccc40aa84164f",
+      "4a0f9a26f63df12ed82898bfafeba65ed526ebf208e196210ea2feaa39486811",
+      "4ba8413e93ac0708aa368f8f651538c30e438c3348507a28686b8c0a9d668b70",
+      "4cdf203a578b137afffb9ed3fe82c4c7d82e014651c34ebdf67bc458ec085ac3"
+    ],
+    "articles/medaka-cloudy-water.html": [
+      "1162b5f167ea0db7b92ef8cff625b59f793de6fdf4c43d09ecee843bf7692ab1",
+      "2563127bde1d2c0e52bb7cd57f2a5b9ac14fe759baee05b7d4417d70d25c6d66",
+      "6ada50082dc850ee51675627de057151259fbc8f9625c2a625d0a6499e003e81",
+      "a9a7b5d2a9fd35cdce986007fc2630f555a13c1cf756fe0b9f47aec6a88f1303",
+      "ab48e862f446fc5689feeac096ebd1e1a8f8eef0f81cd8dd7644e1784a3ef92f",
+      "f2c2db363ab4e1b2fac3fe0856197056f2225dc93e038ed8235882a4da5e26fe"
+    ],
+    "articles/medaka-food-guide.html": [
+      "83320333694675594cd896f0e141c7bef4b7cc8d6797f83dfa05015c29021770",
+      "d6357efcc3441b8200c1d812891c6dce10b30a7033059b250e24b8fd4168d4c1"
+    ],
+    "articles/medaka-dechlorinator.html": [],
+    "articles/medaka-sponge-filter.html": [],
+    "articles/medaka-fry-tools.html": [],
+    "articles/medaka-summer-heat.html": [],
+    "articles/medaka-shopping-checklist.html": [
+      "2f52f6237348617a83c4c2a096511bcb1f436fedaebb11f23388fbacdd880e9d",
+      "30c1927eccdfca045eec0a45a43f4e5ff9df6948f56224a0b85c703be7bfabef",
+      "34c18adf884d03c1ace4bde211ef5e6848141eb91231acb13ea305abca5b344a",
+      "4ba8413e93ac0708aa368f8f651538c30e438c3348507a28686b8c0a9d668b70",
+      "4cdf203a578b137afffb9ed3fe82c4c7d82e014651c34ebdf67bc458ec085ac3",
+      "63477dcd98b9bb149212d4b525202531e5eaa00ca85454e13ccfb8d7eca9e144",
+      "b14608e1905127e96c1ef0bb32e69e453892dc195da28943b95c2b518d75c2a1",
+      "e4a1a6f38762876aa6a46fd09a73e805243db9ccb61e12864304c9c9d4738d80"
+    ],
+    "articles/medaka-not-eating.html": [
+      "99ccfce589e327643b4ba199726ec124d4d91e307848c90aa9552141dcd60192",
+      "e0d1a4e7714c413a3598b62c4db69e12689e284706fdaf725a5003511616c302"
+    ],
+    "articles/medaka-tools.html": [],
+    "articles/medaka-thermometers.html": [
+      "1f8074feca8dd4fe6dabf757a86c19d32195052218d0e413e72350079864d989",
+      "30c1927eccdfca045eec0a45a43f4e5ff9df6948f56224a0b85c703be7bfabef",
+      "4cdf203a578b137afffb9ed3fe82c4c7d82e014651c34ebdf67bc458ec085ac3",
+      "e643a5b92d505da8b4f7a42a272435928f0068c1daeaa0d3598b0e1e5d96a1d4"
+    ],
+    "articles/first-aquarium.html": [],
+    "articles/medaka-tank-size.html": [],
+    "articles/dechlorinator-products.html": [
+      "34c18adf884d03c1ace4bde211ef5e6848141eb91231acb13ea305abca5b344a",
+      "4ba8413e93ac0708aa368f8f651538c30e438c3348507a28686b8c0a9d668b70",
+      "8f6e8605eb26770a48a778a4924f0ab17f648b417d4f6a0da91107644383991a",
+      "fcf10d8484ebd50cc288b3ff5a71119e7bef7120fb318f23717a23a46b18fde0"
+    ],
+    "tools/water-volume.html": []
+  }
+}
