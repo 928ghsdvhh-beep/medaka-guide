@@ -1,0 +1,382 @@
+{
+  "site": "medaka-guide",
+  "pages": 20,
+  "indexable": 19,
+  "sitemap_urls": 19,
+  "issues": [],
+  "page_audit": [
+    {
+      "path": "about.html",
+      "title": "サイトについて｜メダカ飼育の道具ノート",
+      "h1": "サイトについて",
+      "description": "メダカ飼育の道具ノートの編集方針・広告掲載・情報の確認方法について。",
+      "canonical": "https://medaka-guide-i92.pages.dev/about",
+      "noindex": false,
+      "text_characters": 155,
+      "html_bytes": 1577,
+      "schema_types": [
+        "AboutPage"
+      ],
+      "internal_links": 1,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "index.html",
+      "title": "メダカ飼育の道具ノート｜はじめての飼育から道具選びまで",
+      "h1": "小さなメダカと、<br>心地よい暮らし。",
+      "description": "メダカ飼育の基本、道具の選び方、水換え、稚魚の育て方、暑さ対策をわかりやすく解説。無料の水槽水量計算ツールも。",
+      "canonical": "https://medaka-guide-i92.pages.dev/",
+      "noindex": false,
+      "text_characters": 2154,
+      "html_bytes": 27467,
+      "schema_types": [
+        "WebSite"
+      ],
+      "internal_links": 18,
+      "affiliate_links": 8,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "404.html",
+      "title": "ページが見つかりません",
+      "h1": "ページが見つかりませんでした",
+      "description": null,
+      "canonical": null,
+      "noindex": true,
+      "text_characters": 63,
+      "html_bytes": 587,
+      "schema_types": [],
+      "internal_links": 1,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": false
+    },
+    {
+      "path": "privacy.html",
+      "title": "プライバシーポリシー｜メダカ飼育の道具ノート",
+      "h1": "プライバシーポリシー",
+      "description": "メダカ飼育の道具ノートにおける個人情報・広告・アクセス解析の取り扱いについて。",
+      "canonical": "https://medaka-guide-i92.pages.dev/privacy",
+      "noindex": false,
+      "text_characters": 243,
+      "html_bytes": 1877,
+      "schema_types": [
+        "WebPage"
+      ],
+      "internal_links": 1,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-water-change.html",
+      "title": "メダカの水換え方法｜頻度・量・カルキ抜きの注意点",
+      "h1": "メダカの水換え方法：頻度・量・カルキ抜きの注意点",
+      "description": "メダカの水換えのやり方を初心者向けに解説。水換えの頻度・量の考え方、カルキ抜き、水温合わせ、稚魚の注意点まで。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-water-change",
+      "noindex": false,
+      "text_characters": 1482,
+      "html_bytes": 9261,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 9,
+      "affiliate_links": 2,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-winter-care.html",
+      "title": "メダカの冬越し完全ガイド｜屋外飼育の餌・水換え・凍結対策",
+      "h1": "メダカの冬越し完全ガイド｜餌はいつ止める？水換えは必要？",
+      "description": "メダカの屋外冬越しで迷う餌やり、水換え、足し水、凍結対策を初心者向けに解説。秋の準備から春の再開まで、飼育環境別のチェックリスト付き。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-winter-care",
+      "noindex": false,
+      "text_characters": 3198,
+      "html_bytes": 17390,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 8,
+      "affiliate_links": 6,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-cloudy-water.html",
+      "title": "メダカ水槽の水が白く濁る原因と対処｜立ち上げ直後・餌・ろ過を見分ける｜メダカ飼育の道具ノート",
+      "h1": "メダカ水槽の水が白く濁る原因と対処｜立ち上げ直後・餌・ろ過を見分ける",
+      "description": "メダカ水槽の白濁りを、立ち上げ直後・餌の食べ残し・底砂・ろ過の状態から見分ける方法。魚の異常、水質検査、部分換水の判断を解説。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-cloudy-water",
+      "noindex": false,
+      "text_characters": 2561,
+      "html_bytes": 16932,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 7,
+      "affiliate_links": 6,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-food-guide.html",
+      "title": "メダカの餌の選び方｜成魚・稚魚・冬の給餌で失敗しないために｜メダカ飼育の道具ノート",
+      "h1": "メダカの餌の選び方｜成魚・稚魚・冬の給餌で失敗しないために",
+      "description": "メダカの餌を成長段階、粒の大きさ、水温、食べ残しの観点から選ぶ方法。餌を食べないときの確認ポイントも紹介。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-food-guide",
+      "noindex": false,
+      "text_characters": 1638,
+      "html_bytes": 10520,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 7,
+      "affiliate_links": 2,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-dechlorinator.html",
+      "title": "メダカのカルキ抜きは必要？水道水の準備と選び方｜メダカ飼育の道具ノート",
+      "h1": "メダカのカルキ抜きは必要？水道水の準備と選び方",
+      "description": "メダカのカルキ抜きは必要？水道水の準備と選び方を初心者向けに解説",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-dechlorinator",
+      "noindex": false,
+      "text_characters": 1086,
+      "html_bytes": 8074,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 5,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-sponge-filter.html",
+      "title": "メダカにフィルターは必要？スポンジ式の選び方と水流の注意点｜メダカ飼育の道具ノート",
+      "h1": "メダカにフィルターは必要？スポンジ式の選び方と水流の注意点",
+      "description": "メダカ水槽のろ過装置が必要になる条件、スポンジフィルターの特徴、水流・稚魚の吸い込み・掃除の注意点を解説。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-sponge-filter",
+      "noindex": false,
+      "text_characters": 2720,
+      "html_bytes": 13474,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 8,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-fry-tools.html",
+      "title": "メダカの稚魚を育てる道具と注意点｜メダカ飼育の道具ノート",
+      "h1": "メダカの稚魚を育てる道具と注意点",
+      "description": "メダカの稚魚を育てる道具と注意点を初心者向けに解説",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-fry-tools",
+      "noindex": false,
+      "text_characters": 1632,
+      "html_bytes": 9538,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 8,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-summer-heat.html",
+      "title": "屋外メダカ飼育の夏の暑さ対策｜メダカ飼育の道具ノート",
+      "h1": "屋外メダカ飼育の夏の暑さ対策",
+      "description": "屋外メダカ飼育の夏の暑さ対策を初心者向けに解説",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-summer-heat",
+      "noindex": false,
+      "text_characters": 945,
+      "html_bytes": 6743,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 6,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-shopping-checklist.html",
+      "title": "メダカ飼育の買い物チェックリスト｜最初に必要な道具と選び方",
+      "h1": "メダカ飼育の買い物チェックリスト",
+      "description": "メダカを初めて飼う人向けの買い物チェックリスト。水槽、水道水のカルキ抜き、水温計、餌など必要な道具と購入前の注意点を整理。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-shopping-checklist",
+      "noindex": false,
+      "text_characters": 1549,
+      "html_bytes": 13445,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 9,
+      "affiliate_links": 8,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-not-eating.html",
+      "title": "メダカが餌を食べない原因は？水温・水質・病気の見分け方と対処",
+      "h1": "メダカが餌を食べない。水温？水質？原因の見分け方",
+      "description": "メダカが餌を食べないとき、まず何を観察すればよい？水温、水質、餌の大きさ、導入直後のストレス、体調不良を切り分ける手順を解説。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-not-eating",
+      "noindex": false,
+      "text_characters": 3138,
+      "html_bytes": 16338,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 9,
+      "affiliate_links": 2,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-tools.html",
+      "title": "メダカ飼育に必要な道具一覧｜初心者の用品選び",
+      "h1": "メダカ飼育に必要な道具と選び方",
+      "description": "メダカ飼育を始めるときに必要な道具を初心者向けに解説。容器・カルキ抜き・水温計の選び方と、買い物チェックリストや比較記事へのリンクを掲載。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-tools",
+      "noindex": false,
+      "text_characters": 1126,
+      "html_bytes": 7882,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 7,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-thermometers.html",
+      "title": "メダカの水温計の選び方｜屋外・室内比較",
+      "h1": "メダカの水温計は、屋外と室内で選び方が違う",
+      "description": "屋外メダカ鉢と室内水槽の水温計をメーカー仕様で比較。測定範囲・精度・設置方式を確認。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-thermometers",
+      "noindex": false,
+      "text_characters": 940,
+      "html_bytes": 8322,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 3,
+      "affiliate_links": 4,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/first-aquarium.html",
+      "title": "メダカ飼育の始め方｜初心者向け水槽準備から水合わせまで",
+      "h1": "メダカ飼育の始め方｜水槽を用意してからメダカを迎えるまで",
+      "description": "初めてメダカを飼う人へ。水槽の選び方、水量の計算、カルキ抜き、ろ過の準備、メダカの水合わせ、餌や水換えまで順番に解説。失敗しやすいポイントも紹介。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/first-aquarium",
+      "noindex": false,
+      "text_characters": 2780,
+      "html_bytes": 13953,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 12,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/medaka-tank-size.html",
+      "title": "メダカの水槽は何リットル必要？水量の考え方｜メダカ飼育の道具ノート",
+      "h1": "メダカの水槽は何リットル必要？水量の考え方",
+      "description": "メダカの水槽は何リットル必要？水量の考え方を初心者向けに解説",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/medaka-tank-size",
+      "noindex": false,
+      "text_characters": 1302,
+      "html_bytes": 8060,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 7,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/dechlorinator-products.html",
+      "title": "メダカのカルキ抜き商品比較｜メダカ飼育の道具ノート",
+      "h1": "カルキ抜き、どちらを選ぶ？",
+      "description": "メダカのカルキ抜き2製品をメーカー仕様・使用量・JANコードで比較。Amazonで探すリンク付き。",
+      "canonical": "https://medaka-guide-i92.pages.dev/articles/dechlorinator-products",
+      "noindex": false,
+      "text_characters": 1510,
+      "html_bytes": 11913,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 4,
+      "affiliate_links": 4,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "tools/water-volume.html",
+      "title": "メダカ水槽の水量計算ツール｜メダカ飼育の道具ノート",
+      "h1": "メダカ水槽の水量計算ツール",
+      "description": "水槽の内寸からおおよその水量を計算。底砂や水位の影響も説明します。",
+      "canonical": "https://medaka-guide-i92.pages.dev/tools/water-volume",
+      "noindex": false,
+      "text_characters": 288,
+      "html_bytes": 3188,
+      "schema_types": [
+        "WebPage"
+      ],
+      "internal_links": 2,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    }
+  ]
+}

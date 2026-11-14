@@ -1,0 +1,984 @@
+{
+  "note": "Local Chromium; external images, ads and analytics blocked. This verifies layout, not live network speed or affiliate attribution.",
+  "viewports": [
+    {
+      "repo": "medaka-guide",
+      "path": "about.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "about.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "about.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "index.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "index.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "index.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "404.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "404.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "404.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "privacy.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "privacy.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "privacy.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-water-change.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-water-change.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-water-change.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-winter-care.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-winter-care.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-winter-care.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-cloudy-water.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-cloudy-water.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-cloudy-water.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-food-guide.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 540
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 212.375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 212.375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-food-guide.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 540
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 212.375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 212.375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-food-guide.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-dechlorinator.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-dechlorinator.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-dechlorinator.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-sponge-filter.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 242.515625
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 242.515625
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 520
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-sponge-filter.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 242.515625
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 242.515625
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 520
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-sponge-filter.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-fry-tools.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 540
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 269.046875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 269.046875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-fry-tools.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 540
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 269.046875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 269.046875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-fry-tools.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-summer-heat.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-summer-heat.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-summer-heat.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-shopping-checklist.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 261.84375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 261.84375
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-shopping-checklist.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 261.84375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 261.84375
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-shopping-checklist.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-not-eating.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 519
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 519
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 296.140625
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 519
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 519
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 296.140625
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 519
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-not-eating.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 520
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 519
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 519
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 296.140625
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 519
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 519
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 296.140625
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 519
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-not-eating.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-tools.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-tools.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-tools.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-thermometers.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 580
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 580
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 580
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 268.375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 580
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 580
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 268.375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 580
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-thermometers.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 580
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 580
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 580
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 268.375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 580
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 580
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 268.375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 580
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-thermometers.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/first-aquarium.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/first-aquarium.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/first-aquarium.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-tank-size.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-tank-size.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/medaka-tank-size.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/dechlorinator-products.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/dechlorinator-products.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "articles/dechlorinator-products.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "tools/water-volume.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "tools/water-volume.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "medaka-guide",
+      "path": "tools/water-volume.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    }
+  ],
+  "smoke": [
+    {
+      "site": "medaka-guide",
+      "test": "水量40×25×20cm＝20L",
+      "pass": true
+    }
+  ]
+}
