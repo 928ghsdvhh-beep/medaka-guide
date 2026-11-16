@@ -1,7 +1,6 @@
 {
-  "note": "Snapshot from main or its existing build before editorial changes; do not regenerate to hide advertising changes.",
+  "note": "Snapshot from main or its existing build before editorial changes; do not regenerate to hide advertising changes. Tracking ID migration authorized by user on 2026-11-16: six cloudy-water links changed from ip17-22 to moon12-22; only that page baseline was updated.",
   "tracking_ids": [
-    "ip17-22",
     "moon12-22"
   ],
   "protected_html_sha256": {
@@ -32,12 +31,12 @@
       "4cdf203a578b137afffb9ed3fe82c4c7d82e014651c34ebdf67bc458ec085ac3"
     ],
     "articles/medaka-cloudy-water.html": [
-      "1162b5f167ea0db7b92ef8cff625b59f793de6fdf4c43d09ecee843bf7692ab1",
-      "2563127bde1d2c0e52bb7cd57f2a5b9ac14fe759baee05b7d4417d70d25c6d66",
-      "6ada50082dc850ee51675627de057151259fbc8f9625c2a625d0a6499e003e81",
-      "a9a7b5d2a9fd35cdce986007fc2630f555a13c1cf756fe0b9f47aec6a88f1303",
-      "ab48e862f446fc5689feeac096ebd1e1a8f8eef0f81cd8dd7644e1784a3ef92f",
-      "f2c2db363ab4e1b2fac3fe0856197056f2225dc93e038ed8235882a4da5e26fe"
+      "145c91bf5944dc33514e75d27d7663666eeada8babbc01b95d2099fa2b86fcb9",
+      "3c5445e64d37c8f2224443ba4a1ccab81a73f15da1621a38cb7410e9d9b6be42",
+      "4c14d4c3ae5ba11e4d9bd698d80406f257c5a9de818ce682466913d7229a4975",
+      "824c46f92eea2513ef14b42bb9b0bf20a58a21245d9de7b5ec7a01214534a4ef",
+      "8453bfab40a8f3869550ecf0ec9a49a7388d9ad5007193dc88571c106ac130b1",
+      "c5f3d013d092633db6f68518cbcf8ea03ec9734a624d805dfe2d2dcd4cd132f9"
     ],
     "articles/medaka-food-guide.html": [
       "83320333694675594cd896f0e141c7bef4b7cc8d6797f83dfa05015c29021770",
